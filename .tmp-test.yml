@@ -1,0 +1,2 @@
+token: ${{ github.token }}
+repo: $GITHUB_REPOSITORY
